@@ -1,4 +1,4 @@
-<h1>Welcome to the USCM codebase!</h1>
+<h1>Welcome to the You-Ess-See-Em codebase!</h1>
 
 <i>Don't forget to set your own MOTD.</i>
 <br><br>

@@ -217,7 +217,7 @@
 
 // A marine version of the portable vendor, points are not regenerated.
 /obj/item/portable_vendor/marine
-	name = "\improper TerraGov Storage Backpack"
+	name = "\improper USCM Storage Backpack"
 	desc = "A backpack-sized automated storage and retrieval system. Designed to efficiently store and selectively dispense large kits during immediate operations. Can only vend one kit per person."
 	icon_state = "marinepack"
 	req_access = list(ACCESS_MARINE_PREP)
@@ -225,7 +225,7 @@
 	max_points = 1
 
 /obj/item/portable_vendor/marine/squadmarine
-	name = "\improper TerraGov Squad Marine Storage Backpack"
+	name = "\improper USCM Squad Marine Storage Backpack"
 	desc = "A backpack-sized automated storage and retrieval system. Designed to efficiently store and selectively dispense large kits during immediate operations. Can only vend one kit per person. Has a tag saying that this backpack is only for Squad Marines."
 	req_role = /datum/job/terragov/squad/standard
 	listed_products = list(
@@ -243,7 +243,7 @@ A breacher kit with the least firepower, has a high capacity SMG and a machete f
 							)
 
 /obj/item/portable_vendor/marine/squadmarine/engineer
-	name = "\improper TerraGov Squad Engineer Storage Backpack"
+	name = "\improper USCM Squad Engineer Storage Backpack"
 	desc = "A backpack-sized automated storage and retrieval system. Designed to efficiently store and selectively dispense large kits during immediate operations. Can only vend one kit per person. Has a tag saying that this backpack is only for Squad Engineers."
 	req_role = /datum/job/terragov/squad/engineer
 	listed_products = list(
@@ -255,7 +255,7 @@ A breacher kit with the least firepower, has a high capacity SMG and a machete f
 							)
 
 /obj/item/portable_vendor/marine/squadmarine/corpsman
-	name = "\improper TerraGov Squad Corpsman Storage Backpack"
+	name = "\improper USCM Squad Corpsman Storage Backpack"
 	desc = "A backpack-sized automated storage and retrieval system. Designed to efficiently store and selectively dispense large kits during immediate operations. Can only vend one kit per person. Has a tag saying that this backpack is only for Squad Corpsmen."
 	req_role = /datum/job/terragov/squad/corpsman
 	listed_products = list(
@@ -265,7 +265,7 @@ A breacher kit with the least firepower, has a high capacity SMG and a machete f
 							)
 
 /obj/item/portable_vendor/marine/squadmarine/smartgunner
-	name = "\improper TerraGov Squad Smartgunner Storage Backpack"
+	name = "\improper USCM Squad Smartgunner Storage Backpack"
 	desc = "A backpack-sized automated storage and retrieval system. Designed to efficiently store and selectively dispense large kits during immediate operations. Can only vend one kit per person. Has a tag saying that this backpack is only for Squad Smartgunners."
 	req_role = /datum/job/terragov/squad/smartgunner
 	listed_products = list(
@@ -275,7 +275,7 @@ A breacher kit with the least firepower, has a high capacity SMG and a machete f
 							)
 
 /obj/item/portable_vendor/marine/squadmarine/specialist
-	name = "\improper TerraGov Squad Specialist Storage Backpack"
+	name = "\improper USCM Squad Specialist Storage Backpack"
 	desc = "A backpack-sized automated storage and retrieval system. Designed to efficiently store and selectively dispense large kits during immediate operations. Can only vend one kit per person. Has a faded tag saying that this backpack is only for Squad Specialists, you wonder if you are either lucky or just disappointed."
 	req_role = /datum/job/terragov/squad/specialist
 	listed_products = list(

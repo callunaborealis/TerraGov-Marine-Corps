@@ -549,7 +549,7 @@ Sensors indicate [numXenosShip || "no"] unknown lifeform signature[numXenosShip 
 
 	output += "</div>"
 
-	var/datum/browser/popup = new(NP, "playersetup", "<div align='center'>Welcome to USCM[SSmapping?.configs ? " - [SSmapping.configs[SHIP_MAP].map_name]" : ""]</div>", 300, 375)
+	var/datum/browser/popup = new(NP, "playersetup", "<div align='center'>Welcome to the United States Colonial Marines[SSmapping?.configs ? " - [SSmapping.configs[SHIP_MAP].map_name]" : ""]</div>", 300, 375)
 	popup.set_window_options("can_close=0")
 	popup.set_content(output)
 	popup.open(FALSE)

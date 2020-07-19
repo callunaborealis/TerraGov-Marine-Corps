@@ -381,7 +381,7 @@
 	icon_state = "roplaque"
 
 /obj/structure/sign/prop1
-	name = "\improper TerraGov poster"
+	name = "\improper USCM poster"
 	desc = "The symbol of the Terran Goverment."
 	icon_state = "prop1"
 

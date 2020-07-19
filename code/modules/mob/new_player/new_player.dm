@@ -71,7 +71,7 @@
 
 	output += "</div>"
 
-	var/datum/browser/popup = new(src, "playersetup", "<div align='center'>Welcome to USCM[SSmapping?.configs ? " - [SSmapping.configs[SHIP_MAP].map_name]" : ""]</div>", 300, 375)
+	var/datum/browser/popup = new(src, "playersetup", "<div align='center'>Welcome to the United States Colonial Marines[SSmapping?.configs ? " - [SSmapping.configs[SHIP_MAP].map_name]" : ""]</div>", 300, 375)
 	popup.set_window_options("can_close=0")
 	popup.set_content(output)
 	popup.open(FALSE)
@@ -378,7 +378,7 @@
 
 /mob/new_player/proc/ViewMarines()
 	var/output = "<div align='center'>"
-	output += "<p><i>The <b>United States Colonial Marines'</b> mission is to enforce space law for the purpose of defending Terra's orbit as well as other solar colonies around the galaxy under the conflict of the Independent Colonial Confederation and the intelligent xenomorph threat. \nThe USCM is composed by willing men and women from all kinds of social strata, hailing from all across the TerraGov systems. \nAs the vessel approaches to the ordered location on space, the cryostasis pods deactivate and awake you from your long-term stasis. Knowing that it's one of those days again, you hope that you'll make this out alive...</i></p>"
+	output += "<p><i>The <b>United States Colonial Marines'</b> mission is to enforce space law for the purpose of defending the United States and its colonies. \nComposed by willing men and women from all kinds of social strata, the USCM hails from the United States on Earth as well as its more established extraterrestial habitats. \nAs the vessel approaches to the ordered location on space, the cryostasis pods deactivate and awake you from your long-term stasis. Knowing that it's one of those days again, you hope that you'll make this out alive...</i></p>"
 	output += "</div>"
 
 	var/datum/browser/popup = new(src, "marines", "<div align='center'>United States Colonial Marines</div>", 480, 280)

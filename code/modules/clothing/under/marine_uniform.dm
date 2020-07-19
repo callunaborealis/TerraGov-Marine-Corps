@@ -106,7 +106,7 @@
 
 /obj/item/clothing/under/marine/officer/bridge
 	name = "staff officer uniform"
-	desc = "A standard-issue, kevlar-weaved, hazmat-tested, EMF-augmented staff officer uniform. Do the navy proud."
+	desc = "A standard-issue, kevlar-weaved, hazmat-tested, EMF-augmented staff officer uniform. Do the Space Force proud."
 	icon_state = "BO_jumpsuit"
 	flags_item_map_variant = (ITEM_JUNGLE_VARIANT|ITEM_ICE_VARIANT)
 
@@ -118,7 +118,7 @@
 
 /obj/item/clothing/under/marine/officer/command
 	name = "captain uniform"
-	desc = "A special-issue, well-ironed, kevlar-weaved, hazmat-tested, EMF-augmented uniform worth of a TerraGov Naval Captain. Even looking at it the wrong way could result in being court-martialed."
+	desc = "A special-issue, well-ironed, kevlar-weaved, hazmat-tested, EMF-augmented uniform worth of a United States Colonial Marines Captain. Even looking at it the wrong way could result in being court-martialed."
 	icon_state = "CO_jumpsuit"
 	flags_item_map_variant = (ITEM_JUNGLE_VARIANT|ITEM_ICE_VARIANT)
 

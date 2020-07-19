@@ -264,7 +264,7 @@
 
 /obj/item/weapon/gun/rifle/m41a1
 	name = "\improper M41A1 pulse rifle"
-	desc = "An outdated rifle for the United States Colonial Marines, carried by a few coporate mercenary groups, the M41A1 is a very rare sight in TerraGov systems. Uses 10x24mm caseless ammunition."
+	desc = "An outdated rifle for the United States Colonial Marines, carried by a few coporate mercenary groups, the M41A1 is a very rare sight in USCM systems. Uses 10x24mm caseless ammunition."
 	icon_state = "m41a1"
 	item_state = "m41a1"
 	muzzleflash_iconstate = "muzzle_flash_medium"

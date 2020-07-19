@@ -164,7 +164,7 @@
 
 /obj/item/clothing/suit/storage/marine/MP
 	name = "\improper N2 pattern MA armor"
-	desc = "A standard TerraGov Navy N2 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage."
+	desc = "A standard United States Space Force N2 Pattern Chestplate. Protects the chest from ballistic rounds, bladed objects and accidents. It has a small leather pouch strapped to it for limited storage."
 	icon_state = "mp"
 	soft_armor = list("melee" = 45, "bullet" = 55, "laser" = 55, "energy" = 20, "bomb" = 25, "bio" = 40, "rad" = 10, "fire" = 20, "acid" = 45)
 	slowdown = 0.4
@@ -626,7 +626,7 @@
 
 /obj/item/clothing/suit/storage/RO
 	name = "\improper RO jacket"
-	desc = "A green jacket worn by USCM personnel. The back has the flag of the TerraGov on it."
+	desc = "A green jacket worn by USCM personnel. The back has the flag of the United States on it."
 	icon_state = "RO_jacket"
 	blood_overlay_type = "coat"
 	flags_armor_protection = CHEST|GROIN|ARMS|LEGS|FEET|HANDS
