@@ -4,10 +4,10 @@
 $include dbconfig.txt
 
 ## Server name: This appears at the top of the screen in-game.
-SERVER_NAME Something
+SERVER_NAME You-Ess-See-Em
 
 ## Hosted by name for unix platforms.
-HOSTEDBY yournamehere
+HOSTEDBY CallunaBorealis
 
 ## The title of the main window.
 TITLE Change Me
@@ -21,7 +21,7 @@ ADMIN_LEGACY_SYSTEM
 ## Add a # infront of this to disable the shutdown server verb.
 ALLOW_SHUTDOWN
 
-## If you use /tg/station-server 3 and you want to allow the shutdown server verb, 
+## If you use /tg/station-server 3 and you want to allow the shutdown server verb,
 ##	the server needs to be able to tell tgs3 that the shutdown is not a crash.
 ## This should be the path to the TGCommandLine.exe program in your tgstation-server install.
 ## Defaults to C:\Program Files (x86)\TG Station Server\TGCommandLine.exe if not set.
@@ -91,7 +91,7 @@ LIMBS_CAN_BREAK
 ## Only enable this if you have youtube-dl installed!
 # INVOKE_YOUTUBEDL youtube-dl
 
-#Here are the lobby music configs. 
+#Here are the lobby music configs.
 #index link startSecond endSecond
 
 #Space Hero
