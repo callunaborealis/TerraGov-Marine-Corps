@@ -358,7 +358,7 @@ log transactions
 						R.stamped = new
 					R.stamped += /obj/item/tool/stamp
 					R.overlays += stampoverlay
-					R.stamps += "<HR><i>This paper has been stamped by the NT Automatic Teller Machine.</i>"
+					R.stamps += "<HR><i>This paper has been stamped by the W-Y Automatic Teller Machine.</i>"
 
 				if(prob(50))
 					playsound(loc, 'sound/items/polaroid1.ogg', 15, 1)
@@ -400,7 +400,7 @@ log transactions
 						R.stamped = new
 					R.stamped += /obj/item/tool/stamp
 					R.overlays += stampoverlay
-					R.stamps += "<HR><i>This paper has been stamped by the NT Automatic Teller Machine.</i>"
+					R.stamps += "<HR><i>This paper has been stamped by the W-Y Automatic Teller Machine.</i>"
 
 				if(prob(50))
 					playsound(loc, 'sound/items/polaroid1.ogg', 15, 1)

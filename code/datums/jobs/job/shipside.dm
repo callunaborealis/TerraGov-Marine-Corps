@@ -460,7 +460,7 @@ You are also an expert when it comes to medication and treatment. If you do not 
 	comm_title = "Rsr"
 	paygrade = "CD"
 	total_positions = 2
-	supervisors = "the NT corporate office"
+	supervisors = "the W-Y corporate office"
 	access = list(ACCESS_IFF_MARINE, ACCESS_MARINE_MEDBAY, ACCESS_MARINE_RESEARCH, ACCESS_MARINE_CHEMISTRY)
 	minimal_access = list(ACCESS_IFF_MARINE, ACCESS_MARINE_MEDBAY, ACCESS_MARINE_RESEARCH, ACCESS_MARINE_CHEMISTRY, ACCESS_MARINE_CARGO, ACCESS_MARINE_DROPSHIP)
 	skills_type = /datum/skills/doctor
@@ -475,7 +475,7 @@ You are also an expert when it comes to medication and treatment. If you do not 
 	to_chat(M, {"You are a civilian, working for the Weyland-Yutani Corporation, and are not subject to the military chain of command.
 You are tasked with researching and developing new medical treatments, weapons, conducting xenomorph studies, and learning new things.
 Your role involves some roleplaying and gimmickry, but you can perform the function of a regular doctor.
-While the Corporate Liaison is not your boss, it would be wise to consult them on your findings or ask to use their NT fax machine."})
+While the Corporate Liaison is not your boss, it would be wise to consult them on your findings or ask to use their W-Y fax machine."})
 
 
 /datum/outfit/job/medical/researcher
@@ -507,7 +507,7 @@ While the Corporate Liaison is not your boss, it would be wise to consult them o
 	title = CORPORATE_LIAISON
 	paygrade = "NT"
 	comm_title = "CL"
-	supervisors = "the NT corporate office"
+	supervisors = "the W-Y corporate office"
 	total_positions = 1
 	access = list(ACCESS_IFF_MARINE, ACCESS_NT_CORPORATE, ACCESS_ILLEGAL_PIRATE, ACCESS_MARINE_BRIDGE, ACCESS_MARINE_DROPSHIP, ACCESS_MARINE_RESEARCH, ACCESS_MARINE_LOGISTICS)
 	minimal_access = list(ACCESS_IFF_MARINE, ACCESS_NT_CORPORATE, ACCESS_ILLEGAL_PIRATE, ACCESS_MARINE_BRIDGE, ACCESS_MARINE_DROPSHIP, ACCESS_MARINE_RESEARCH, ACCESS_MARINE_LOGISTICS, ACCESS_MARINE_CARGO, ACCESS_MARINE_MEDBAY)

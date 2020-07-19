@@ -245,7 +245,7 @@
 	supplies = list(/obj/item/storage/box/MRE = 50)
 
 /obj/structure/largecrate/supply/supplies/water
-	name = "\improper NT Bottled Water crate (x50)"
+	name = "\improper W-Y Bottled Water crate (x50)"
 	desc = "A crate containing fifty Weyland-Yutani Bottled Spring Water bottles."
 	supplies = list(/obj/item/reagent_containers/food/drinks/cans/waterbottle = 50)
 

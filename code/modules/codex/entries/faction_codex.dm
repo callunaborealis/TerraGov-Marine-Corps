@@ -16,9 +16,9 @@
     display_name = "NanoTrasen (faction)"
     lore_text = "NanoTrasen, known informally as NT, is the largest corporation in human space, with facilities mainly in TG space along with a few \
     frontier outposts. They focus on phoron research and mining.<br><br> NanoTrasen was started in in 2057, their main invention back then being a phoron-engine design. \
-    Ever since, NT has gained the favor of the ISA and TG, allowing them to rapidly expand operations, eventually encompasssing most human space. \
-    Despite their generally good PR and wide acclaim, vocal critics of NT indicate their abuses of workers, as well as their controversial production of \
-    vatborns for the military. Despite this, NT is projected to keep growing, even with the TG-ICC war."
+    Ever since, W-Y has gained the favor of the ISA and TG, allowing them to rapidly expand operations, eventually encompasssing most human space. \
+    Despite their generally good PR and wide acclaim, vocal critics of W-Y indicate their abuses of workers, as well as their controversial production of \
+    vatborns for the military. Despite this, W-Y is projected to keep growing, even with the TG-ICC war."
     mechanics_text = "Several million employees.<br><br>Has a few thousand armed security officers.<br><br>~100 FTL ships, mainly non-combatant or escorts<br><br>\
     ++Great scientific capabilities.<br>\
     +Posseses a large amount of influence.<br>\

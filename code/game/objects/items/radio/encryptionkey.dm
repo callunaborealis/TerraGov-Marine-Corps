@@ -97,7 +97,7 @@
 
 
 /obj/item/encryptionkey/commando
-	name = "\improper NT commando encryption key"
+	name = "\improper W-Y commando encryption key"
 	channels = list(RADIO_CHANNEL_DEATHSQUAD = TRUE)
 
 
