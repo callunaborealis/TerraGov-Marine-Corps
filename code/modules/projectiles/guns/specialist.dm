@@ -460,7 +460,7 @@
 
 /obj/item/weapon/gun/launcher/m92
 	name = "\improper T-26 grenade launcher"
-	desc = "A heavy, 6-shot grenade launcher used by the TerraGov Marine Corps for area denial and big explosions."
+	desc = "A heavy, 6-shot grenade launcher used by the United States Colonial Marines for area denial and big explosions."
 	icon_state = "m92"
 	item_state = "m92"
 	max_shells = 6 //codex
@@ -596,7 +596,7 @@
 
 /obj/item/weapon/gun/launcher/m92/standardmarine
 	name = "\improper T-70 grenade launcher"
-	desc = "The T-70 is the standard grenade launcher used by the TerraGov Marine Corps for area denial and big explosions."
+	desc = "The T-70 is the standard grenade launcher used by the United States Colonial Marines for area denial and big explosions."
 	icon = 'icons/Marine/gun64.dmi'
 	icon_state = "t70"
 	item_state = "t70"
@@ -631,7 +631,7 @@
 
 /obj/item/weapon/gun/launcher/m81
 	name = "\improper T-81 grenade launcher"
-	desc = "A lightweight, single-shot grenade launcher used by the TerraGov Marine Corps for area denial and big explosions."
+	desc = "A lightweight, single-shot grenade launcher used by the United States Colonial Marines for area denial and big explosions."
 	icon_state = "m81"
 	item_state = "m81"
 	max_shells = 1 //codex

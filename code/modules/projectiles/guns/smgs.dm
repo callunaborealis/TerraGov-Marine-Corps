@@ -45,7 +45,7 @@
 
 /obj/item/weapon/gun/smg/standard_machinepistol
 	name = "\improper T-19 machinepistol"
-	desc = "The T-19 is the TerraGov Marine Corps standard-issue machine pistol. It's known for it's low recoil and scatter when used one handed. It's usually carried by specialized troops who do not have the space to carry a much larger gun like medics and engineers. It uses 10x20mm caseless rounds."
+	desc = "The T-19 is the United States Colonial Marines standard-issue machine pistol. It's known for it's low recoil and scatter when used one handed. It's usually carried by specialized troops who do not have the space to carry a much larger gun like medics and engineers. It uses 10x20mm caseless rounds."
 	icon_state = "t19"
 	item_state = "t19"
 	caliber = "10x20mm caseless" //codex
@@ -85,7 +85,7 @@
 
 /obj/item/weapon/gun/smg/standard_smg
 	name = "\improper T-90 submachinegun"
-	desc = "The T-90 is the TerraGov Marine Corps standard issue SMG. Its known for it's compact size and ease of use inside the field. It's usually carried by troops who want a lightweight firearm to rush with. It uses 10x20mm caseless rounds."
+	desc = "The T-90 is the United States Colonial Marines standard issue SMG. Its known for it's compact size and ease of use inside the field. It's usually carried by troops who want a lightweight firearm to rush with. It uses 10x20mm caseless rounds."
 	fire_sound = 'sound/weapons/guns/fire/t90.ogg'
 	icon_state = "t90"
 	item_state = "t90"

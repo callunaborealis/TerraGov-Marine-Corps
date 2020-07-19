@@ -387,7 +387,7 @@
 
 /obj/structure/sign/prop2
 	name = "\improper USCM poster"
-	desc = "A deeply faded poster of a group of glamorous TerraGov Marine Corps in uniform. Probably taken pre-Alpha."
+	desc = "A deeply faded poster of a group of glamorous United States Colonial Marines in uniform. Probably taken pre-Alpha."
 	icon_state = "prop2"
 
 /obj/structure/sign/prop3

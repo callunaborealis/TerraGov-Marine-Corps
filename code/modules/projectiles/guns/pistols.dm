@@ -71,7 +71,7 @@
 
 /obj/item/weapon/gun/pistol/m4a3
 	name = "\improper M4A3 service pistol"
-	desc = "An M4A3 Colt Service Pistol, it was standard issue sidearm of the TerraGov Marine Corps, until the sidearm role was replaced by Terran Armories's TP-14 pistol."
+	desc = "An M4A3 Colt Service Pistol, it was standard issue sidearm of the United States Colonial Marines, until the sidearm role was replaced by Terran Armories's TP-14 pistol."
 	icon_state = "m4a3"
 	item_state = "m4a3"
 	caliber = "9x19mm Parabellum" //codex
@@ -545,7 +545,7 @@ It is a modified Beretta 93R, and can fire three round burst or single fire. Whe
 
 /obj/item/weapon/gun/pistol/knife
 	name = "\improper M6 'Eclipse Raider' ballistic knife"
-	desc = "The back issue survival knife issued to a fewTerraGov Marine Corps soldiers. There are a surprisingly large amount of attachment points on this... knife."
+	desc = "The back issue survival knife issued to a fewUnited States Colonial Marines soldiers. There are a surprisingly large amount of attachment points on this... knife."
 	icon = 'icons/obj/items/weapons.dmi'
 	icon_state = "elite_knife"
 	reload_sound = 'sound/weapons/flipblade.ogg'
