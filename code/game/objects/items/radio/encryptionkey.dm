@@ -87,7 +87,7 @@
 
 
 /obj/item/encryptionkey/PMC
-	name = "\improper Nanotrasen encryption key"
+	name = "\improper Weyland-Yutani encryption key"
 	channels = list(RADIO_CHANNEL_PMC = TRUE)
 
 

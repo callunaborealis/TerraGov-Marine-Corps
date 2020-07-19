@@ -5,8 +5,8 @@
 
 ///Resource generator that produces a certain material that can be repaired by marines and attacked by xenos, Intended as an objective for marines to play towards to get more req gear
 /obj/machinery/miner
-	name = "\improper Nanotrasen phoron Mining Well"
-	desc = "Top-of-the-line Nanotrasen research drill with it's own packaging module, used to extract phoron in vast quantities. Selling the phoron mined by these would net a nice profit..."
+	name = "\improper Weyland-Yutani phoron Mining Well"
+	desc = "Top-of-the-line Weyland-Yutani research drill with it's own packaging module, used to extract phoron in vast quantities. Selling the phoron mined by these would net a nice profit..."
 	icon = 'icons/obj/mining_drill.dmi'
 	density = TRUE
 	icon_state = "mining_drill_active"
@@ -32,8 +32,8 @@
 	icon_state = "mining_drill_error"
 
 /obj/machinery/miner/damaged/platinum
-	name = "\improper Nanotrasen platinum Mining Well"
-	desc = "A Nanotrasen platinum drill with an internal packaging module. Produces even more valuable materials than it's phoron counterpart"
+	name = "\improper Weyland-Yutani platinum Mining Well"
+	desc = "A Weyland-Yutani platinum drill with an internal packaging module. Produces even more valuable materials than it's phoron counterpart"
 	mineral_produced = /obj/structure/ore_box/platinum
 
 /obj/machinery/miner/Initialize()

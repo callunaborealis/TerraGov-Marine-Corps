@@ -31,7 +31,7 @@
 /datum/job/terragov/command/captain/radio_help_message(mob/M)
 	. = ..()
 	to_chat(M, {"As the captain of the [SSmapping.configs[SHIP_MAP].map_name] you are held by higher standard and are expected to act competently.
-While you may support Nanotrasen, you report to the TGMC High Command, not the corporate office.
+While you may support Weyland-Yutani, you report to the TGMC High Command, not the corporate office.
 Your primary task is the safety of the ship and her crew, and ensuring the survival and success of the marines.
 Your first order of business should be briefing the marines on the mission they are about to undertake.
 If you require any help, use adminhelp to ask mentors about what you're supposed to do.
@@ -472,7 +472,7 @@ You are also an expert when it comes to medication and treatment. If you do not 
 
 /datum/job/terragov/medical/researcher/radio_help_message(mob/M)
 	. = ..()
-	to_chat(M, {"You are a civilian, working for the Nanotrasen Corporation, and are not subject to the military chain of command.
+	to_chat(M, {"You are a civilian, working for the Weyland-Yutani Corporation, and are not subject to the military chain of command.
 You are tasked with researching and developing new medical treatments, weapons, conducting xenomorph studies, and learning new things.
 Your role involves some roleplaying and gimmickry, but you can perform the function of a regular doctor.
 While the Corporate Liaison is not your boss, it would be wise to consult them on your findings or ask to use their NT fax machine."})
@@ -520,9 +520,9 @@ While the Corporate Liaison is not your boss, it would be wise to consult them o
 
 /datum/job/terragov/civilian/liaison/radio_help_message(mob/M)
 	. = ..()
-	to_chat(M, {"As a representative of Nanotrasen Corporation you are expected to stay professional and loyal to the corporation at all times.
+	to_chat(M, {"As a representative of Weyland-Yutani Corporation you are expected to stay professional and loyal to the corporation at all times.
 You are not required to follow military orders; however, you cannot give military orders.
-Your primary job is to observe and report back your findings to Nanotrasen. Follow regular game rules unless told otherwise by your superiors.
+Your primary job is to observe and report back your findings to Weyland-Yutani. Follow regular game rules unless told otherwise by your superiors.
 Use your office fax machine to communicate with corporate headquarters or to acquire new directives. You may not receive anything back (especially if the game staff is absent or otherwise busy), and this is normal."})
 
 

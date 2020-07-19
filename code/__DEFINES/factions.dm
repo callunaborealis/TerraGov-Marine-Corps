@@ -6,7 +6,7 @@
 #define FACTION_FREELANCERS "Freelancers"
 #define FACTION_IMP "Imperium of Mankind"
 #define FACTION_UNKN_MERCS "Unknown Mercenary Group"
-#define FACTION_NANOTRASEN "Nanotrasen"
+#define FACTION_NANOTRASEN "Weyland-Yutani"
 #define FACTION_SECTOIDS "Sectoids"
 #define FACTION_SOM "Sons of Mars"
 #define FACTION_UPP "Union of Progressive People"

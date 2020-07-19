@@ -10,7 +10,7 @@
 */
 /obj/item/clothing/under/rank/warden
 	name = "security suit"
-	desc = "A formal security suit for officers complete with Nanotrasen belt buckle."
+	desc = "A formal security suit for officers complete with Weyland-Yutani belt buckle."
 	icon_state = "wardenred"
 	item_state = "r_suit"
 	soft_armor = list("melee" = 10, "bullet" = 0, "laser" = 0, "energy" = 0, "bomb" = 0, "bio" = 0, "rad" = 0, "fire" = 0, "acid" = 0)
@@ -18,7 +18,7 @@
 
 /obj/item/clothing/under/rank/warden/white
 	name = "white security suit"
-	desc = "A formal relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood."
+	desc = "A formal relic of years past before Weyland-Yutani decided it was cheaper to dye the suits red instead of washing out the blood."
 	icon_state = "wardenwhite"
 	item_state = "wardenwhite"
 
@@ -32,7 +32,7 @@
 
 /obj/item/clothing/under/rank/security/white
 	name = "white security jumpsuit"
-	desc = "A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood."
+	desc = "A tactical relic of years past before Weyland-Yutani decided it was cheaper to dye the suits red instead of washing out the blood."
 	icon_state = "securitywhite"
 	item_state = "securitywhite"
 

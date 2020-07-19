@@ -115,7 +115,7 @@
 //	ambience = list('sound/ambience/jungle_amb1.ogg')
 
 /area/lv624/ground/compound
-	name = "\improper Nanotrasen Compound"
+	name = "\improper Weyland-Yutani Compound"
 	icon_state = "green"
 
 /area/lv624/ground/compound/ne

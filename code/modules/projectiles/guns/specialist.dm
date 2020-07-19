@@ -214,7 +214,7 @@
 
 /obj/item/weapon/gun/rifle/sniper/elite
 	name = "\improper M42C anti-tank sniper rifle"
-	desc = "A high end mag-rail heavy sniper rifle from Nanotrasen chambered in the heaviest ammo available, 10x99mm Caseless."
+	desc = "A high end mag-rail heavy sniper rifle from Weyland-Yutani chambered in the heaviest ammo available, 10x99mm Caseless."
 	icon_state = "m42c"
 	item_state = "m42c"
 	max_shells = 6 //codex
@@ -755,7 +755,7 @@
 
 /obj/item/weapon/gun/launcher/m81/riot
 	name = "\improper M81 riot grenade launcher"
-	desc = "A lightweight, single-shot grenade launcher to launch tear gas grenades. Used by Nanotrasen security during riots."
+	desc = "A lightweight, single-shot grenade launcher to launch tear gas grenades. Used by Weyland-Yutani security during riots."
 	grenade_type_allowed = /obj/item/explosive/grenade/chem_grenade
 	riot_version = TRUE
 	flags_gun_features = GUN_UNUSUAL_DESIGN|GUN_POLICE|GUN_WIELDED_FIRING_ONLY|GUN_AMMO_COUNTER

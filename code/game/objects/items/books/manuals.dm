@@ -367,7 +367,7 @@
 				<body>
 				<center>
 				<br>
-				<b style='font-size: 12px;'>Nanotrasen - Building Better Worlds</b>
+				<b style='font-size: 12px;'>Weyland-Yutani - Building Better Worlds</b>
 				<h1>Autonomous Power Loader Unit \"Ripley\"</h1>
 				</center>
 				<h2>Specifications:</h2>
@@ -743,7 +743,7 @@
 	name = "NT Medical Diagnostics Manual"
 	desc = "First, do no harm. A detailed medical practitioner's guide."
 	icon_state = "bookMedical"
-	author = "Nanotrasen Medicine Department"
+	author = "Weyland-Yutani Medicine Department"
 	title = "NT Medical Diagnostics Manual"
 
 	dat = {"<html>
@@ -761,7 +761,7 @@
 				<br>
 				<h1>The Oath</h1>
 
-				<i>The Medical Oath sworn by recognised medical practitioners in the employ of Nanotrasen</i><br>
+				<i>The Medical Oath sworn by recognised medical practitioners in the employ of Weyland-Yutani</i><br>
 
 				<ol>
 					<li>Now, as a new doctor, I solemnly promise that I will, to the best of my ability, serve humanity-caring for the sick, promoting good health, and alleviating pain and suffering.</li>

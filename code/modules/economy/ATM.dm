@@ -108,7 +108,7 @@ log transactions
 
 	var/dat
 	dat += "For all your monetary needs!<br>"
-	dat += "<i>This terminal is</i> [machine_id]. <i>Report this code when contacting Nanotrasen IT Support</i><br/>"
+	dat += "<i>This terminal is</i> [machine_id]. <i>Report this code when contacting Weyland-Yutani IT Support</i><br/>"
 
 	dat += "Card: <a href='?src=\ref[src];choice=insert_card'>[held_card ? held_card.name : "------"]</a><br><br>"
 
@@ -191,7 +191,7 @@ log transactions
 		dat += "<input type='submit' value='Submit'><br>"
 		dat += "</form>"
 
-	var/datum/browser/popup = new(user, "atm", "<div align='center'>Nanotrasen Automatic Teller Machine</div>", 550, 650)
+	var/datum/browser/popup = new(user, "atm", "<div align='center'>Weyland-Yutani Automatic Teller Machine</div>", 550, 650)
 	popup.set_content(dat)
 	popup.open()
 

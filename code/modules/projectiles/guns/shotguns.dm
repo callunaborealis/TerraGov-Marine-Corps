@@ -226,7 +226,7 @@ can cause issues with ammo types getting mixed up during the burst.
 
 /obj/item/weapon/gun/shotgun/combat
 	name = "\improper MK221 tactical shotgun"
-	desc = "The Nanotrasen MK221 Shotgun, a quick-firing semi-automatic shotgun based on the centuries old Benelli M4 shotgun. Only issued to the TGMC in small numbers."
+	desc = "The Weyland-Yutani MK221 Shotgun, a quick-firing semi-automatic shotgun based on the centuries old Benelli M4 shotgun. Only issued to the TGMC in small numbers."
 	flags_equip_slot = ITEM_SLOT_BACK
 	icon_state = "mk221"
 	item_state = "mk221"
@@ -559,7 +559,7 @@ can cause issues with ammo types getting mixed up during the burst.
 //Based off of the Benelli M3
 /obj/item/weapon/gun/shotgun/pump/cmb
 	name = "\improper Paladin-12 pump shotgun"
-	desc = "A nine-round pump action shotgun. A sporterized version of a classic shotgun used for hunting, home defence and police work, modified and used by Nanotrasen security."
+	desc = "A nine-round pump action shotgun. A sporterized version of a classic shotgun used for hunting, home defence and police work, modified and used by Weyland-Yutani security."
 	icon_state = "pal12"
 	item_state = "pal12"
 	fire_sound = 'sound/weapons/guns/fire/shotgun_cmb.ogg'

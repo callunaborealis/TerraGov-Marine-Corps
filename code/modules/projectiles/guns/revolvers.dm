@@ -473,7 +473,7 @@
 
 /obj/item/weapon/gun/revolver/cmb
 	name = "\improper CMB autorevolver"
-	desc = "An automatic revolver chambered in .357 magnum. Commonly issued to Nanotrasen security. It has a burst mode. Currently in trial with other revolvers across Terra and other colonies."
+	desc = "An automatic revolver chambered in .357 magnum. Commonly issued to Weyland-Yutani security. It has a burst mode. Currently in trial with other revolvers across Terra and other colonies."
 	icon_state = "cmb"
 	item_state = "cmb"
 	caliber = ".357 Magnum" //codex

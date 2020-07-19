@@ -369,7 +369,7 @@
 
 /obj/item/weapon/gun/energy/lasgun/pulse
 	name = "\improper M19C4 pulse energy rifle"
-	desc = "A heavy-duty, multifaceted energy weapon that uses pulse-based beam generation technology to emit powerful laser blasts. Because of its complexity and cost, it is rarely seen in use except by specialists and front-line combat personnel. This is a testing model issued only for Asset Protection units and offshore elite Nanotrasen squads."
+	desc = "A heavy-duty, multifaceted energy weapon that uses pulse-based beam generation technology to emit powerful laser blasts. Because of its complexity and cost, it is rarely seen in use except by specialists and front-line combat personnel. This is a testing model issued only for Asset Protection units and offshore elite Weyland-Yutani squads."
 	force = 23 //Slightly more heftier than the M43, but without the stock.
 	icon_state = "m19c4"
 	item_state = "m19c4"

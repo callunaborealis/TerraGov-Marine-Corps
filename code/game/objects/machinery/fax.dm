@@ -16,7 +16,7 @@
 	var/sendcooldown = FALSE
 
 	var/department = CORPORATE_LIAISON
-	var/selected = "Nanotrasen"
+	var/selected = "Weyland-Yutani"
 
 
 /obj/machinery/faxmachine/Initialize()
@@ -63,7 +63,7 @@
 	dat += "<hr>"
 
 	if(authenticated)
-		dat += "<b>Logged in to:</b> Nanotrasen Private Corporate Network<br><br>"
+		dat += "<b>Logged in to:</b> Weyland-Yutani Private Corporate Network<br><br>"
 		if(message)
 			dat += "<a href='byond://?src=\ref[src];remove=1'>Remove Paper</a><br><br>"
 			if(sendcooldown)
@@ -126,7 +126,7 @@
 		authenticated = FALSE
 
 	if(href_list["dept"])
-		var/choice = input(usr, "Who do you want to message?", "Fax", "") as null|anything in list("Nanotrasen", "TGMC High Command", "TGMC Provost Marshall")
+		var/choice = input(usr, "Who do you want to message?", "Fax", "") as null|anything in list("Weyland-Yutani", "TGMC High Command", "TGMC Provost Marshall")
 		if(!choice)
 			return
 		selected = choice

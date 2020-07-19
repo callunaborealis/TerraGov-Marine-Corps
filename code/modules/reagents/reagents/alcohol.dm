@@ -79,7 +79,7 @@ All effects don't start immediately, but rather get worse over time; the rate is
 
 /datum/reagent/consumable/ethanol/nt_beer
 	name = "Aspen Beer"
-	description = "Pretty good when you get past the fact that it tastes like piss. Canned by the Nanotrasen Corporation."
+	description = "Pretty good when you get past the fact that it tastes like piss. Canned by the Weyland-Yutani Corporation."
 	color = "#ffcc66"
 	boozepwr = 5 //Space Europeans hate it
 	taste_description = "dish water"

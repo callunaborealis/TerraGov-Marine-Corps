@@ -890,7 +890,7 @@ GLOBAL_LIST_EMPTY(preferences_datums)
 			religion = choice
 
 		if("corporation")
-			var/new_relation = input(user, "Choose your relation to the Nanotrasen company that will appear on background checks.", "Nanotrasen Relation")  as null|anything in CORP_RELATIONS
+			var/new_relation = input(user, "Choose your relation to the Weyland-Yutani company that will appear on background checks.", "Weyland-Yutani Relation")  as null|anything in CORP_RELATIONS
 			if(!new_relation)
 				return
 			nanotrasen_relation = new_relation

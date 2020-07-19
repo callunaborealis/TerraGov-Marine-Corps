@@ -328,8 +328,8 @@
 	info = "In loving memory of Cub Johnson."
 
 /obj/item/storage/box/nt_mre
-	name = "\improper Nanotrasen brand MRE"
-	desc = "A prepackaged, long-lasting food box from Nanotrasen Industries.\nOn the box is the Nanotrasen logo, with a slogan surrounding it: \n<b>NANOTRASEN. BUILDING BETTER LUNCHES</b>"
+	name = "\improper Weyland-Yutani brand MRE"
+	desc = "A prepackaged, long-lasting food box from Weyland-Yutani Industries.\nOn the box is the Weyland-Yutani logo, with a slogan surrounding it: \n<b>NANOTRASEN. BUILDING BETTER LUNCHES</b>"
 	icon_state = "mre2"
 	can_hold = list(/obj/item/reagent_containers/food/snacks)
 	w_class = WEIGHT_CLASS_BULKY

@@ -432,7 +432,7 @@
 
 /obj/item/weapon/gun/pistol/vp70
 	name = "\improper 88 Mod 4 combat pistol"
-	desc = "A powerful sidearm issued mainly to Nanotrasen private contractors, but issued to TGMC in very small numbers, based on the original VP70 more than a century ago. Fires 9mm armor piercing rounds and is capable of 3-round burst or automatic fire."
+	desc = "A powerful sidearm issued mainly to Weyland-Yutani private contractors, but issued to TGMC in very small numbers, based on the original VP70 more than a century ago. Fires 9mm armor piercing rounds and is capable of 3-round burst or automatic fire."
 	icon_state = "88m4"
 	item_state = "88m4"
 	caliber = "9x19mm Parabellum" //codex
@@ -473,7 +473,7 @@
 
 /obj/item/weapon/gun/pistol/vp78
 	name = "\improper VP78 combat pistol"
-	desc = "A massive, formidable automatic handgun chambered in 9mm squash-head rounds. Commonly seen in the hands of wealthy Nanotrasen members."
+	desc = "A massive, formidable automatic handgun chambered in 9mm squash-head rounds. Commonly seen in the hands of wealthy Weyland-Yutani members."
 	icon_state = "vp78"
 	item_state = "vp78"
 	caliber = "9x19mm Parabellum" //codex

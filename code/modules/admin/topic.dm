@@ -756,7 +756,7 @@ Status: [status ? status : "Unknown"] | Damage: [health ? health : "None"]
 		if(!dep)
 			return
 
-		var/department = input("Which department do you want to reply AS?", "Fax Message") as null|anything in list("TGMC High Command", "TGMC Provost General", "Nanotrasen")
+		var/department = input("Which department do you want to reply AS?", "Fax Message") as null|anything in list("TGMC High Command", "TGMC Provost General", "Weyland-Yutani")
 		if(!department)
 			return
 

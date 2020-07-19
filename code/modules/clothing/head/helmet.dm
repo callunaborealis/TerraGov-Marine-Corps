@@ -421,7 +421,7 @@
 
 /obj/item/clothing/head/helmet/marine/veteran/PMC/commando
 	name = "\improper PMC commando helmet"
-	desc = "A fully enclosed, armored helmet made for Nanotrasen elite commandos."
+	desc = "A fully enclosed, armored helmet made for Weyland-Yutani elite commandos."
 	icon_state = "commando_helmet"
 	flags_armor_protection = HEAD|FACE|EYES
 	soft_armor = list("melee" = 95, "bullet" = 120, "laser" = 200, "energy" = 200, "bomb" = 90, "bio" = 100, "rad" = 100, "fire" = 90, "acid" = 95)

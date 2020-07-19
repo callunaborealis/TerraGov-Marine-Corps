@@ -92,7 +92,7 @@
 				if(/datum/reagent/consumable/ethanol/sake)
 					icon_state = "ginvodkaglass"
 					name = "Glass of sake"
-					desc = "A glass of warm Nanotrasen brand sake."
+					desc = "A glass of warm Weyland-Yutani brand sake."
 					center_of_mass = list("x"=16, "y"=12)
 				if(/datum/reagent/consumable/ethanol/vodka)
 					icon_state = "ginvodkaglass"
@@ -231,7 +231,7 @@
 				if(/datum/reagent/consumable/drink/atomicbomb)
 					icon_state = "atomicbombglass"
 					name = "Atomic Bomb"
-					desc = "Nanotrasen cannot take legal responsibility for your actions after imbibing."
+					desc = "Weyland-Yutani cannot take legal responsibility for your actions after imbibing."
 					center_of_mass = list("x"=15, "y"=7)
 				if(/datum/reagent/consumable/ethanol/longislandicedtea)
 					icon_state = "longislandicedteaglass"
@@ -441,7 +441,7 @@
 				if(/datum/reagent/consumable/ethanol/acid_spit)
 					icon_state = "acidspitglass"
 					name = "Acid Spit"
-					desc = "A drink from Nanotrasen. Made from live aliens."
+					desc = "A drink from Weyland-Yutani. Made from live aliens."
 					center_of_mass = list("x"=16, "y"=7)
 				if(/datum/reagent/consumable/ethanol/amasec)
 					icon_state = "amasecglass"
