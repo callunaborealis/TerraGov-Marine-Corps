@@ -6,7 +6,7 @@ about: Create a report to help reproduce and fix the issue
 
 ## Testmerges:
 
-<!-- If you're certain the issue is to be caused by a test merge, go on the TGMC discord (preferabily the #bot-abuse channel) and type '!tgs prs' (without the brackets), and then copy and paste the bot's output here. If no testmerges are active, feel free to remove this section. -->
+<!-- If you're certain the issue is to be caused by a test merge, go on the USCM discord (preferabily the #bot-abuse channel) and type '!tgs prs' (without the brackets), and then copy and paste the bot's output here. If no testmerges are active, feel free to remove this section. -->
 
 ## Reproduction:
 

@@ -460,16 +460,16 @@ Status: [status ? status : "Unknown"] | Damage: [health ? health : "None"]
 		if(!istype(H))
 			return
 
-		var/input = input("Please enter a message to reply to [key_name(H)].", "Outgoing message from TGMC", "") as message|null
+		var/input = input("Please enter a message to reply to [key_name(H)].", "Outgoing message from USCM", "") as message|null
 		if(!input)
 			return
 
-		to_chat(H, "<span class='boldnotice'>Please stand by for a message from TGMC:<br/>[input]</span>")
+		to_chat(H, "<span class='boldnotice'>Please stand by for a message from USCM:<br/>[input]</span>")
 		var/sound/S = sound('sound/effects/sos-morse-code.ogg', channel = CHANNEL_ADMIN)
 		SEND_SOUND(H, S)
 
-		log_admin("[key_name(usr)] replied to [ADMIN_TPMONTY(H)]'s TGMC message with: [input].")
-		message_admins("[ADMIN_TPMONTY(usr)] replied to [ADMIN_TPMONTY(H)]'s' TGMC message with: [input]")
+		log_admin("[key_name(usr)] replied to [ADMIN_TPMONTY(H)]'s USCM message with: [input].")
+		message_admins("[ADMIN_TPMONTY(usr)] replied to [ADMIN_TPMONTY(H)]'s' USCM message with: [input]")
 
 
 	if(href_list["deny"])
@@ -756,7 +756,7 @@ Status: [status ? status : "Unknown"] | Damage: [health ? health : "None"]
 		if(!dep)
 			return
 
-		var/department = input("Which department do you want to reply AS?", "Fax Message") as null|anything in list("TGMC High Command", "TGMC Provost General", "Weyland-Yutani")
+		var/department = input("Which department do you want to reply AS?", "Fax Message") as null|anything in list("USCM High Command", "USCM Provost General", "Weyland-Yutani")
 		if(!department)
 			return
 

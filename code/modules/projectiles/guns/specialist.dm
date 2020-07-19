@@ -333,7 +333,7 @@
 //Come get some.
 /obj/item/weapon/gun/smartgun
 	name = "\improper T-90A smartgun"
-	desc = "The actual firearm in the 4-piece M56B Smartgun System. This one has TGMC markings, thus designating it a T-90A. It is essentially a heavy, mobile machinegun.\nReloading is a cumbersome process requiring a powerpack. Click the powerpack icon in the top left or use special action to reload."
+	desc = "The actual firearm in the 4-piece M56B Smartgun System. This one has USCM markings, thus designating it a T-90A. It is essentially a heavy, mobile machinegun.\nReloading is a cumbersome process requiring a powerpack. Click the powerpack icon in the top left or use special action to reload."
 	icon_state = "m56"
 	item_state = "m56"
 	max_shells = 100 //codex
@@ -766,7 +766,7 @@
 
 /obj/item/weapon/gun/launcher/rocket
 	name = "\improper T-152 rocket launcher"
-	desc = "The T-152 is the primary anti-armor weapon of the TGMC. Used to take out light-tanks and enemy structures, the T-152 rocket launcher is a dangerous weapon with a variety of combat uses. Uses a variety of 84mm rockets."
+	desc = "The T-152 is the primary anti-armor weapon of the USCM. Used to take out light-tanks and enemy structures, the T-152 rocket launcher is a dangerous weapon with a variety of combat uses. Uses a variety of 84mm rockets."
 	icon_state = "m5"
 	item_state = "m5"
 	max_shells = 1 //codex
@@ -952,7 +952,7 @@
 
 /obj/item/weapon/gun/shotgun/merc/scout
 	name = "\improper ZX-76 assault shotgun"
-	desc = "The MIC ZX-76 Assault Shotgun, a double barreled semi-automatic combat shotgun with a twin shot mode, has a 9 round internal magazine. Currently retired by the main TGMC forces for the addition of the SX-16 and later the MBX-900, it is now only used in special operations and smaller divisions across Terra."
+	desc = "The MIC ZX-76 Assault Shotgun, a double barreled semi-automatic combat shotgun with a twin shot mode, has a 9 round internal magazine. Currently retired by the main USCM forces for the addition of the SX-16 and later the MBX-900, it is now only used in special operations and smaller divisions across Terra."
 	icon_state = "zx-76"
 	item_state = "zx-76"
 	max_shells = 10 //codex

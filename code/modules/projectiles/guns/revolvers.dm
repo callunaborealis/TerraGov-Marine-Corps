@@ -432,7 +432,7 @@
 
 /obj/item/weapon/gun/revolver/mateba
 	name = "\improper TL-24 autorevolver"
-	desc = "The TL-24 is the rather rare autorevolver used by the TGMC issued in rather small numbers to backline personnel and officers it uses recoil to spin the cylinder. Uses heavy .454 rounds."
+	desc = "The TL-24 is the rather rare autorevolver used by the USCM issued in rather small numbers to backline personnel and officers it uses recoil to spin the cylinder. Uses heavy .454 rounds."
 	icon_state = "mateba"
 	item_state = "mateba"
 	muzzleflash_iconstate = "muzzle_flash"

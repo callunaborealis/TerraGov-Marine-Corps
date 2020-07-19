@@ -128,7 +128,7 @@
 
 
 /obj/item/trash/tgmc_tray
-	name = "\improper TGMC tray"
+	name = "\improper USCM tray"
 	desc = "Finished with its tour of duty"
 	icon_state = "MREtray"
 
@@ -148,7 +148,7 @@
 	icon_state = "barcardine_trash"
 
 /obj/item/trash/mre
-	name = "\improper crumbled TGMC MRE"
-	desc = "It has done its part for the TGMC. Have you?"
+	name = "\improper crumbled USCM MRE"
+	desc = "It has done its part for the USCM. Have you?"
 	icon = 'icons/obj/items/trash.dmi'
 	icon_state = "mealpackempty"

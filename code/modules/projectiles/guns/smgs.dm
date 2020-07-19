@@ -130,7 +130,7 @@
 
 /obj/item/weapon/gun/smg/m39
 	name = "\improper M39 submachinegun"
-	desc = "The Armat Battlefield Systems M39 submachinegun, an outdated design within the TGMC inventory. A light firearm capable of effective one-handed use that is ideal for close to medium range engagements. Uses 10x20mm rounds in a high capacity magazine."
+	desc = "The Armat Battlefield Systems M39 submachinegun, an outdated design within the USCM inventory. A light firearm capable of effective one-handed use that is ideal for close to medium range engagements. Uses 10x20mm rounds in a high capacity magazine."
 	icon_state = "m39"
 	item_state = "m39"
 	caliber = "10x20mm caseless" //codex

@@ -240,8 +240,8 @@
 	supplies = list(/obj/item/frame/table = 10, /obj/item/frame/rack = 10)
 
 /obj/structure/largecrate/supply/supplies/mre
-	name = "\improper TGMC MRE crate (x50)"
-	desc = "A supply crate containing fifty TGMC MRE packets."
+	name = "\improper USCM MRE crate (x50)"
+	desc = "A supply crate containing fifty USCM MRE packets."
 	supplies = list(/obj/item/storage/box/MRE = 50)
 
 /obj/structure/largecrate/supply/supplies/water

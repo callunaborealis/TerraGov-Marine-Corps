@@ -126,7 +126,7 @@
 		authenticated = FALSE
 
 	if(href_list["dept"])
-		var/choice = input(usr, "Who do you want to message?", "Fax", "") as null|anything in list("Weyland-Yutani", "TGMC High Command", "TGMC Provost Marshall")
+		var/choice = input(usr, "Who do you want to message?", "Fax", "") as null|anything in list("Weyland-Yutani", "USCM High Command", "USCM Provost Marshall")
 		if(!choice)
 			return
 		selected = choice

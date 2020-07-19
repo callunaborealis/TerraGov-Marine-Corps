@@ -11,7 +11,7 @@
 	req_admin_notify = TRUE
 	paygrade = "O6"
 	comm_title = "CPT"
-	supervisors = "TGMC high command"
+	supervisors = "USCM high command"
 	selection_color = "#ccccff"
 	total_positions = 1
 	skills_type = /datum/skills/captain
@@ -31,7 +31,7 @@
 /datum/job/terragov/command/captain/radio_help_message(mob/M)
 	. = ..()
 	to_chat(M, {"As the captain of the [SSmapping.configs[SHIP_MAP].map_name] you are held by higher standard and are expected to act competently.
-While you may support Weyland-Yutani, you report to the TGMC High Command, not the corporate office.
+While you may support Weyland-Yutani, you report to the USCM High Command, not the corporate office.
 Your primary task is the safety of the ship and her crew, and ensuring the survival and success of the marines.
 Your first order of business should be briefing the marines on the mission they are about to undertake.
 If you require any help, use adminhelp to ask mentors about what you're supposed to do.
@@ -81,7 +81,7 @@ Godspeed, captain! And remember, you are not above the law."})
 	to_chat(M, {"You are charged with overseeing the operation on the ground, and are the highest-ranked deployed marine.
 Your duties are to ensure marines hold when ordered, and push when they are cowering behind barricades.
 Do not ask your men to do anything you would not do side by side with them.
-Make the TGMC proud!"})
+Make the USCM proud!"})
 
 
 /datum/outfit/job/command/fieldcommander
@@ -575,7 +575,7 @@ Use your office fax machine to communicate with corporate headquarters or to acq
 
 /datum/job/terragov/silicon/synthetic/radio_help_message(mob/M)
 	. = ..()
-	to_chat(M, {"Your primary job is to support and assist all TGMC Departments and Personnel on-board.
+	to_chat(M, {"Your primary job is to support and assist all USCM Departments and Personnel on-board.
 In addition, being a Synthetic gives you knowledge in every field and specialization possible on-board the ship.
 As a Synthetic you answer to the acting captain. Special circumstances may change this!"})
 

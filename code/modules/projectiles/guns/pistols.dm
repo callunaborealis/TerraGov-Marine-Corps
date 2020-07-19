@@ -375,7 +375,7 @@
 
 /obj/item/weapon/gun/pistol/standard_pocketpistol
 	name = "\improper TP-17 pocket pistol"
-	desc = "A tiny pistol used by the TGMC as an emergency handgun meant to be stored about anywhere. Fits in boots. Uses .380 ACP stored in an eight round magazine."
+	desc = "A tiny pistol used by the USCM as an emergency handgun meant to be stored about anywhere. Fits in boots. Uses .380 ACP stored in an eight round magazine."
 	icon_state = "tp17"
 	item_state = "tp17"
 	caliber = ".380 ACP" //codex
@@ -432,7 +432,7 @@
 
 /obj/item/weapon/gun/pistol/vp70
 	name = "\improper 88 Mod 4 combat pistol"
-	desc = "A powerful sidearm issued mainly to Weyland-Yutani private contractors, but issued to TGMC in very small numbers, based on the original VP70 more than a century ago. Fires 9mm armor piercing rounds and is capable of 3-round burst or automatic fire."
+	desc = "A powerful sidearm issued mainly to Weyland-Yutani private contractors, but issued to USCM in very small numbers, based on the original VP70 more than a century ago. Fires 9mm armor piercing rounds and is capable of 3-round burst or automatic fire."
 	icon_state = "88m4"
 	item_state = "88m4"
 	caliber = "9x19mm Parabellum" //codex

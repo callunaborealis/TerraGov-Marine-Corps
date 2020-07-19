@@ -92,13 +92,13 @@
 
 /obj/structure/prop/mainship/mission_planning_system
 	name = "\improper MPS IV computer"
-	desc = "The Mission Planning System IV (MPS IV), a enhancement in mission planning and charting for dropship pilots across the TGMC. Fully capable of customizing their flight paths and loadouts to suit their combat needs."
+	desc = "The Mission Planning System IV (MPS IV), a enhancement in mission planning and charting for dropship pilots across the USCM. Fully capable of customizing their flight paths and loadouts to suit their combat needs."
 	icon = 'icons/Marine/mainship_props.dmi'
 	icon_state = "mps"
 
 /obj/structure/prop/mainship/mapping_computer
 	name = "\improper CMPS II computer"
-	desc = "The Common Mapping Production System version II allows for sensory imput from satellites and ship systems to derive planetary maps in a standardized fashion for all TGMC pilots."
+	desc = "The Common Mapping Production System version II allows for sensory imput from satellites and ship systems to derive planetary maps in a standardized fashion for all USCM pilots."
 	icon = 'icons/Marine/mainship_props.dmi'
 	icon_state = "mapping_comp"
 
@@ -108,7 +108,7 @@
 	icon = 'icons/Marine/mainship_props.dmi'
 	icon_state = "sensor_comp1"
 
-/obj/structure/prop/mainship/sensor_computer1/sd	
+/obj/structure/prop/mainship/sensor_computer1/sd
 	name = "self destruct status computer"
 
 /obj/structure/prop/mainship/sensor_computer2
@@ -117,7 +117,7 @@
 	icon = 'icons/Marine/mainship_props.dmi'
 	icon_state = "sensor_comp2"
 
-/obj/structure/prop/mainship/sensor_computer2/sd	
+/obj/structure/prop/mainship/sensor_computer2/sd
 	name = "self destruct regulator"
 
 /obj/structure/prop/mainship/sensor_computer3
@@ -127,7 +127,7 @@
 	icon_state = "sensor_comp3"
 
 /obj/structure/prop/mainship/sensor_computer3/sd
-	name = "tempature regulator"	
+	name = "tempature regulator"
 
 /obj/structure/prop/mainship/missile_tube
 	name = "\improper Mk 33 ASAT launcher system"
@@ -141,7 +141,7 @@
 
 /obj/structure/prop/mainship/ship_memorial
 	name = "slab of victory"
-	desc = "A ship memorial dedicated to the triumphs of the TGMC and the fallen marines of this ship. On the left there are grand tales of victory etched into the slab. On the right there is a list of famous marines who have fallen in combat serving the TGMC."
+	desc = "A ship memorial dedicated to the triumphs of the USCM and the fallen marines of this ship. On the left there are grand tales of victory etched into the slab. On the right there is a list of famous marines who have fallen in combat serving the USCM."
 	icon = 'icons/Marine/mainship_props64.dmi'
 	icon_state = "ship_memorial"
 	bound_width = 64
@@ -183,10 +183,10 @@
 
 
 /obj/structure/prop/mainship/name_stencil
-	name = "\improper The TGMC, a TGMC-Class Marine Carrier Arsenal Ship"
+	name = "\improper The USCM, a USCM-Class Marine Carrier Arsenal Ship"
 	desc = "The name of the ship stenciled on the hull."
 	icon = 'icons/Marine/mainship_props64.dmi'
-	icon_state = "TGMC1"
+	icon_state = "USCM1"
 	density = FALSE
 	resistance_flags = UNACIDABLE
 

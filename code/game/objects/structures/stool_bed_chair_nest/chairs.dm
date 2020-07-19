@@ -56,7 +56,7 @@
 //Chair types
 /obj/structure/bed/chair/reinforced
 	name = "reinforced chair"
-	desc = "Some say that the TGMC shouldn't spent this much money on reinforced chairs, but the documents from briefing riots prove otherwise."
+	desc = "Some say that the USCM shouldn't spent this much money on reinforced chairs, but the documents from briefing riots prove otherwise."
 	buildstackamount = 2
 
 

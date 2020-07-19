@@ -43,5 +43,5 @@
 	var/sound/S = sound('sound/effects/sos-morse-code.ogg', channel = CHANNEL_ADMIN)
 	for(var/client/C in GLOB.admins)
 		if(check_other_rights(C, R_ADMIN, FALSE))
-			to_chat(C, "<span class='notice'><b><font color='purple'>TGMC:</font>[ADMIN_FULLMONTY(usr)] (<a HREF='?src=[REF(C.holder)];[HrefToken(TRUE)];reply=[REF(sender)]'>REPLY</a>): [text]</b></span>")
+			to_chat(C, "<span class='notice'><b><font color='purple'>USCM:</font>[ADMIN_FULLMONTY(usr)] (<a HREF='?src=[REF(C.holder)];[HrefToken(TRUE)];reply=[REF(sender)]'>REPLY</a>): [text]</b></span>")
 			SEND_SOUND(C, S)

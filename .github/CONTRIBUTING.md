@@ -6,7 +6,7 @@ See [this page](https://github.com/tgstation/TerraGov-Marine-Corps/issues/new?te
 
 ## Introduction
 
-Hello and welcome to the TGMC contributing page. You are here because you are curious or interested in contributing - thank you! Everyone is free to contribute to this project as long as they follow the simple guidelines and specifications below. We strive to maintain long-term code stability and maintainability, and to do that, we need all pull requests to hold up to those specifications. It's in everyone's best interests - including yours! - if the same bug doesn't have to be fixed twice because of duplicated code.
+Hello and welcome to the USCM contributing page. You are here because you are curious or interested in contributing - thank you! Everyone is free to contribute to this project as long as they follow the simple guidelines and specifications below. We strive to maintain long-term code stability and maintainability, and to do that, we need all pull requests to hold up to those specifications. It's in everyone's best interests - including yours! - if the same bug doesn't have to be fixed twice because of duplicated code.
 
 First things first, we want to make it clear how you can contribute (if you've never contributed before), as well as what the structure of the team and the processes are, to avoid any unpleasant surprises if your pull request is closed for a reason you didn't foresee.
 
@@ -16,7 +16,7 @@ We don't have a strict list of goals and features to add; we instead allow freed
 
 If you'd still like some guidance to see which features are appreciated, check the thread [here](https://tgstation13.org/phpBB/viewtopic.php?f=65&t=20487).
 
-If you want to contribute the first thing you'll need to do is set up Git and clone the repository. Check out [this](https://tgstation13.org/wiki/TGMC:Guide_to_contributing) helpful guide.
+If you want to contribute the first thing you'll need to do is set up Git and clone the repository. Check out [this](https://tgstation13.org/wiki/USCM:Guide_to_contributing) helpful guide.
 
 We have a [list of guides on the wiki](http://www.tgstation13.org/wiki/index.php/Guides#Development_and_Contribution_Guides) that will help you get started contributing to this codebase with Git and Dream Maker. For beginners, it is recommended you work on small projects like bugfixes at first. If you need help learning to program in BYOND, check out this [repository of resources](http://www.byond.com/developer/articles/resources).
 
@@ -404,7 +404,7 @@ for(var/obj/item/sword/S in bag_of_swords)
 	if(!best_sword || S.damage > best_sword.damage)
 		best_sword = S
 ```
-specifies a type for DM to filter by. 
+specifies a type for DM to filter by.
 
 With the previous example that's perfectly fine, we only want swords, but here the bag only contains swords? Is DM still going to try to filter because we gave it a type to filter by? YES, and here comes the inefficiency. Wherever a list (or other container, such as an atom (in which case you're technically accessing their special contents list, but that's irrelevant)) contains datums of the same datatype or subtypes of the datatype you require for your loop's body,
 you can circumvent DM's filtering and automatic ```istype()``` checks by writing the loop as such:
@@ -441,7 +441,7 @@ mob
 ```
 This does NOT mean that you can access it everywhere like a global var. Instead, it means that that var will only exist once for all instances of its type, in this case that var will only exist once for all mobs - it's shared across everything in its type. (Much more like the keyword `static` in other languages like PHP/C++/C#/Java)
 
-Isn't that confusing? 
+Isn't that confusing?
 
 There is also an undocumented keyword called `static` that has the same behaviour as global but more correctly describes BYOND's behaviour. Therefore, we always use static instead of global where we need it, as it reduces suprise when reading BYOND code.
 

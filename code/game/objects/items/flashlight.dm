@@ -173,7 +173,7 @@
 
 /obj/item/flashlight/flare
 	name = "flare"
-	desc = "A red TGMC issued flare. There are instructions on the side, it reads 'pull cord, make light'."
+	desc = "A red USCM issued flare. There are instructions on the side, it reads 'pull cord, make light'."
 	w_class = WEIGHT_CLASS_SMALL
 	brightness_on = 5 //As bright as a flashlight, but more disposable. Doesn't burn forever though
 	icon_state = "flare"

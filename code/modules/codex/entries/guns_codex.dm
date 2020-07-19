@@ -178,7 +178,7 @@
 
 /datum/codex_entry/sniper_rifle
 	associated_paths = list(/obj/item/weapon/gun/rifle/sniper/M42A)
-	lore_text = "A rather strange gun in the TGMC's arsenal. The M42A \"Express\" originally was born out of it's younger brother the M42. Made by the same \
+	lore_text = "A rather strange gun in the USCM's arsenal. The M42A \"Express\" originally was born out of it's younger brother the M42. Made by the same \
 	company who eventually went on to design the M56 smartgun system. Which the M42As specialized scope eventually adopted a modified IFF system similar to it's cousin the smartgun. <br><br>\
 	It was at first marketed to PMCs and civilians as an expensive accurate long range rifle but it failed due to the lack of need for such a thing for PMCs and the wide variety of options \
 	already available for civilians in a more affordable package. The company after the failure went onto design the M56 smartgun and succeeded there however. Which kept them afloat after the failure of the M42.<br><br>\
@@ -188,7 +188,7 @@
 
 /datum/codex_entry/battle_rifle
 	associated_paths = list(/obj/item/weapon/gun/rifle/m4ra)
-	lore_text = "The M45A was born from a commission order from the TGMC to the company which made the M42A and M56 smartgun systems. <br><br>\
+	lore_text = "The M45A was born from a commission order from the USCM to the company which made the M42A and M56 smartgun systems. <br><br>\
 	The reason for this commission order resulted from complaints from light infantry and scout units about the poor accuracy of the new T-26 \
 	carbine at longer ranges and the large size of the T-29 making close combat uncomfortable eventually reached the higher ups, who kept getting \
 	the same complaints over and over. So they eventually reached out to a trusted company to do it.<br><br>\
@@ -200,29 +200,29 @@
 	ranges and at close range quite effectively.<br><br>\
 	After tests by the troops it was meant to be supplied to (light infantry and scout troops) it was rather well-liked \
 	and was met with limited adoption for light infantry and scout troops.<br><br>\
-	The TGMC gave it the designation of T-45 after adoption."
+	The USCM gave it the designation of T-45 after adoption."
 
 /datum/codex_entry/rocket_launcher
 	associated_paths = list(/obj/item/weapon/gun/launcher/rocket)
 	lore_text = "Nicknamed the \"SADAR\", which refers to the previous rocket launcher the SU-185 eventually replaced. <br><br>\
 	The SU-185 was designed with low weight to be easy to carry on one's back and still be able to carry rockets on the person who \
 	is carrying the weapon without making them weighed down too far. It's also created with short range application of rockets rather than long ranged.<br><br>\
-	It was designed after a possible announcement for the replacement to the heavy and aging T-151 SADAR (Non-TGMC name PF-1.), \
+	It was designed after a possible announcement for the replacement to the heavy and aging T-151 SADAR (Non-USCM name PF-1.), \
 	after the actual announcement of the trial participants to show their designs to the Corps where eventually the SU-185 won out \
 	the trials after a close last part on the trials with its competitors in the final round, winning out due to showing lower weight and better short-range accuracy than its peers. <br><br>\
 	After field-testing good reports from troops eventually, leading to its full adoption with the naming of \"T-152\". <br><br>\
-	It's a rather rare sight due to the current doctrine adopted by the TGMC not using heavy explosives often, so it's a rather \
+	It's a rather rare sight due to the current doctrine adopted by the USCM not using heavy explosives often, so it's a rather \
 	rare sight outside of specialized users. and the rising prevalence of shipside combat making it dangerous to fire inside those \
 	spaces makes it even used less. Not that it makes it any less dangerous on an open field."
 
 /datum/codex_entry/smartgun
 	associated_paths = list(/obj/item/weapon/gun/smartgun)
 	lore_text = "The T-90A's design is the one used by most forces under the world who use the M56 4-kit smartgun system, \
-	it has several different other names depending on the user but the one used by the TGMC is defined as T-90A. <br><br>\
+	it has several different other names depending on the user but the one used by the USCM is defined as T-90A. <br><br>\
 	The M56 4-piece system was adopted when the technology eventually developed a practical point as older systems required \
 	a much heavier powerpack or assistant to carry ammunition due to the lack of an autoloading system. After these problems \
 	were solved with the powerpacks autoloading system and eventual size reductions to allow for more practical use of the gun \
-	inside combat, the M56 system was offered to the TGMC and was eventually met with adoption after combat tests showed good results."
+	inside combat, the M56 system was offered to the USCM and was eventually met with adoption after combat tests showed good results."
 
 /datum/codex_entry/standard_shotgun
 	associated_paths = list(/obj/item/weapon/gun/shotgun/pump/t35)
@@ -235,7 +235,7 @@
 
 /datum/codex_entry/standard_revolver
 	associated_paths = list(/obj/item/weapon/gun/revolver/standard_revolver)
-	lore_text = "The original RN-44 used to be the only standard issue sidearm of the TGMC. Though it was once going to \
+	lore_text = "The original RN-44 used to be the only standard issue sidearm of the USCM. Though it was once going to \
 	be fully replaced by the T-27 once that was adopted, it was eventually decided to be kept due to complaints from \
 	troops of the power and accuracy of the new 9mm pistol to the old .44 so it was decided to keep both handguns and \
 	allow a choice between both. Then soon after a modernization came to the old RN-44 design. Eventually being updated to the TP-44.<br><br>\
@@ -251,7 +251,7 @@
 	single misfire during the entire 1000 round firing.<br><br>\
 	After the trials the gun was slated to fully replace the TP-44 as the TP-19 Pistol.<br><br>\
 	But certain troops complained that the T-27 couldn't be as accurate out to further ranges and the power of the .44 round was more worthwhile \
-	to them than the 9mm round. Eventually it was decided that the TP019 would be adopted as the second sidearm of the TGMC instead of fully \
+	to them than the 9mm round. Eventually it was decided that the TP019 would be adopted as the second sidearm of the USCM instead of fully \
 	replacing the TP-44 which would later eventually be modernized."
 
 /datum/codex_entry/standard_assaultrifle
@@ -265,7 +265,7 @@
 /datum/codex_entry/standard_carbine
 	associated_paths = list(/obj/item/weapon/gun/rifle/standard_carbine)
 	lore_text = "The reason for the adoption of the ALF-4 carbine surfaced after repeated complaints of the unwieldiness of the T-12 \
-	Rifle surfaced inside tight spaces, this then prompted the higher command of the TGMC to decide to adopt a new rifle within new barrel \
+	Rifle surfaced inside tight spaces, this then prompted the higher command of the USCM to decide to adopt a new rifle within new barrel \
 	length designations due to the rising prevalence of fighting in close quarters situations inside spaceships and some colonies.<br><br>\
 	Eventually a selection process was made and the ALF-4 eventually won the trials and field testing soon ensured. Which eventually lead \
 	to great feedback from the troops supplied with it. This soon lead to it replacing the T-12 Rifle as the standard issue firearm. \

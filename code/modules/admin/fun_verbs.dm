@@ -121,7 +121,7 @@
 		return
 
 
-	var/customname = input("Pick a title for the report.", "Title", "TGMC Update") as text|null
+	var/customname = input("Pick a title for the report.", "Title", "USCM Update") as text|null
 	var/input = input("Please enter anything you want. Anything. Serious.", "What?", "") as message|null
 
 	if(!input || !customname)

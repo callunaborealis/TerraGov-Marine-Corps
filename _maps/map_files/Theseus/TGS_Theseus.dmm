@@ -35704,7 +35704,7 @@
 /area/mainship/squads/req)
 "gOu" = (
 /obj/structure/prop/mainship/name_stencil{
-	icon_state = "TGMC2"
+	icon_state = "USCM2"
 	},
 /turf/open/floor/mainship_hull,
 /area/space)
@@ -35896,7 +35896,7 @@
 /area/mainship/shipboard/starboard_point_defense)
 "hCB" = (
 /obj/structure/prop/mainship/name_stencil{
-	icon_state = "TGMC3"
+	icon_state = "USCM3"
 	},
 /turf/open/floor/mainship_hull,
 /area/space)
@@ -38439,7 +38439,7 @@
 /area/mainship/shipboard/brig_cells)
 "xfH" = (
 /obj/structure/prop/mainship/name_stencil{
-	icon_state = "TGMC4"
+	icon_state = "USCM4"
 	},
 /turf/open/floor/mainship_hull,
 /area/space)
